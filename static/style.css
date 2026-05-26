@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(2, 35, 24);
+    color: #e70909;
+    
+}
+
+h1{
+    text-align: center;
+    color: rgb(198, 153, 153);
+    font-size: 2em;
+}
+
+h2{
+    color: rgb(235, 237, 172);
+    font-size: 1.2em;
+}
